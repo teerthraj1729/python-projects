@@ -4,7 +4,7 @@ print("Select an option:")
 print("1. Generate a pattern")
 print("2. Analyze a range of numbers")
 print("3. Exit")
-print("hello world")
+print()
 choice = int(input("Enter your choice:"))
 print()
 match choice :
